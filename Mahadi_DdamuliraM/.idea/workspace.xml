@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29bfb7ec-32f3-4641-9a47-a458839f268d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MahadiDMM.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mahadi_Ddamulira_draw_shapes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Mahadi_Ddamulira_plot_shapes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sphere.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/circle.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Mahadi_DdamuliraM.iws" />
@@ -72,7 +67,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mahadi_Ddamulira_draw_shapes.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Mahadi_Ddamulira_draw_shapes.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Mahadi_Ddamulira_draw_shapes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
@@ -82,10 +77,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mahadi_Ddamulira_plot_shapes.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Mahadi_Ddamulira_plot_shapes.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Mahadi_Ddamulira_plot_shapes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.883378" vertical-offset="740" max-vertical-offset="2235">
+            <state vertical-scroll-proportion="0.0" vertical-offset="740" max-vertical-offset="2235">
               <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
               <folding>
                 <element signature="e#22#41#0" expanded="true" />
@@ -449,13 +444,18 @@
       <created>1409508075368</created>
       <updated>1409508075368</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Mahadi Ddamulira Assignment on Plotting geometric properties of shapes">
+      <created>1409599264933</created>
+      <updated>1409599264933</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -470,7 +470,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -514,7 +513,8 @@
     <MESSAGE value="PYCHARMMMMM" />
     <MESSAGE value="commit mmddm.py" />
     <MESSAGE value="commit HW.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit HW.py" />
+    <MESSAGE value="Mahadi Ddamulira Assignment on Plotting geometric properties of shapes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mahadi Ddamulira Assignment on Plotting geometric properties of shapes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -684,21 +684,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Mahadi_Ddamulira_plot_shapes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="740" max-vertical-offset="2235">
+          <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+          <folding>
+            <element signature="e#22#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Mahadi_Ddamulira_draw_shapes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2055">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Mahadi_Ddamulira_plot_shapes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.883378" vertical-offset="740" max-vertical-offset="2235">
-          <caret line="143" column="0" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
-          <folding>
-            <element signature="e#22#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
