@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29bfb7ec-32f3-4641-9a47-a458839f268d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/validating.py" afterPath="$PROJECT_DIR$/validating.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Mahadi_DdamuliraM.iws" />
@@ -26,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dimvaldate.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="dimvaldate.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dimvaldate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.08042896" vertical-offset="0" max-vertical-offset="746">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
               <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
               <folding />
             </state>
@@ -88,10 +87,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nosetests.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="nosetests.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nosetests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+            <state vertical-scroll-proportion="0.70375335" vertical-offset="0" max-vertical-offset="746">
               <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
               <folding>
                 <element signature="e#22#49#0" expanded="true" />
@@ -461,7 +460,11 @@
       <created>1409688053996</created>
       <updated>1409688053996</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Nosetests">
+      <created>1409688078089</created>
+      <updated>1409688078089</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -807,16 +810,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nosetests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-          <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
-          <folding>
-            <element signature="e#22#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/validating.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2880">
@@ -829,9 +822,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dimvaldate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.08042896" vertical-offset="0" max-vertical-offset="746">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
           <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nosetests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.70375335" vertical-offset="0" max-vertical-offset="746">
+          <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+          <folding>
+            <element signature="e#22#49#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
