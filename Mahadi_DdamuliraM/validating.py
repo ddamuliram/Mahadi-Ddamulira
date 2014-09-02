@@ -31,7 +31,7 @@ def calculate_perimeter_regular_pentagon(side_length):
     >>> calculate_perimeter_regular_pentagon(3)
     15
     """
-    if dim_validate(side_length):
+    if dim_validate(side_length):\
         return 5*side_length
     elif type(side_length) == str:
         raise TypeError("value is a string")
